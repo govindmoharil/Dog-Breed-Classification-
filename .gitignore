@@ -1,0 +1,22 @@
+# Datasets
+train/
+test/
+
+# Trained model artifacts
+*.keras
+*.h5
+*.hdf5
+*.pkl
+*.joblib
+model/
+
+# Python/Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.env
+.venv/
+venv/
+env/
