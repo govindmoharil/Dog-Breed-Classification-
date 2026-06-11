@@ -1,7 +1,3 @@
-# Datasets
-train/
-test/
-
 # Trained model artifacts
 *.keras
 *.h5
